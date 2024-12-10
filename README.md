@@ -12,6 +12,4 @@ cd marketplace
 ```
 
 
-images\run.png
-
-images
+![скриншот](images\run.png)
