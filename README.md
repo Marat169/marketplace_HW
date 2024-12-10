@@ -11,4 +11,7 @@ git clone https://github.com/yourusername/marketplace.git
 cd marketplace
 ```
 
-![картинка запуска]()(images\run.png)
+
+images\run.png
+
+images
